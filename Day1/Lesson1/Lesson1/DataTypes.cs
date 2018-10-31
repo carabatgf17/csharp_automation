@@ -13,11 +13,15 @@ namespace DataTypes
     class DataTypes
     {   
         //calendar
-        enum Days {Sun, Mon, Tue, Wed,Thu, Fri, Sat, Sunday };
+        enum Days {Sun, Mon, Tue, Wed,Thu, Fri, Sat };
         // entry point of any App or program
         static void Main(string[] args)
         {   
             short @short = 1;
+            double @for = 1;
+           
+            Days aaaaa = Days.Fri;
+
             Console.WriteLine(@short);
             Boolean status=true;
             Console.WriteLine(status);

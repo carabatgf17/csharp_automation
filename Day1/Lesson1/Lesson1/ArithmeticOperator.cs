@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Operator
 {
     class ArithmeticOperator
@@ -16,6 +17,8 @@ namespace Operator
             // Addition operator
             result = firstNumber + secondNumber;
             Console.WriteLine("{0} + {1} = {2}", firstNumber, secondNumber, result);
+            Console.WriteLine(firstNumber+" + ",secondNumber+" = "+result);
+            Console.WriteLine(firstNumber + secondNumber);
 
             // Subtraction operator
             result = firstNumber - secondNumber;
@@ -32,6 +35,9 @@ namespace Operator
             // Modulo operator
             rem = num1 % num2;
             Console.WriteLine("{0} % {1} = {2}", num1, num2, rem);
+            Console.ReadKey();
+
+
         }
     }
 }

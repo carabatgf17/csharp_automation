@@ -20,13 +20,16 @@ namespace ConsoleApp
         {
             Int32 value = 11;
 
+            Int32 aaa = value > 10 ? 5 : 10; 
+
+
             if (value < 10)
             {
-                Console.WriteLine("Value is less than 10");
+                Console.WriteLine("Value is less than 10 "+value);
             }
             else
             {
-                Console.WriteLine("Value is greater than 10");
+                Console.WriteLine("Value is greater than 10 "+value);
             }
             Console.ReadKey();
         }

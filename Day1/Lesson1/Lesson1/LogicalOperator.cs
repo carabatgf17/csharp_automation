@@ -25,6 +25,7 @@ namespace Operator
             bool first = false; bool second = true;
             result = (first) && (second);
             Console.WriteLine(result);
+            
         }
     }
 }

@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace Lesson1
 {
-    class Class1
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.Out.WriteLine();
-            Console.ReadKey();
         }
     }
 }

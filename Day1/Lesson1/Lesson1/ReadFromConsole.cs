@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    class VariousEntryPoints
+    class ReadFromConsole
     {
-        public VariousEntryPoints()
+        public ReadFromConsole()
         {
         }
 
