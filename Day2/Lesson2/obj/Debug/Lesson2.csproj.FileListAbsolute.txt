@@ -5,3 +5,10 @@ C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\Lesson
 C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\Lesson2\obj\Debug\Lesson2.exe
 C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
 C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\gcarabat\source\repos\ConsoleApp2\csharp_automation\Day2\Lesson2\obj\Debug\Lesson2.pdb
