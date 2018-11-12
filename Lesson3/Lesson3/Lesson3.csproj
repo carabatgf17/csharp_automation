@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lesson3.FinallyDemo</StartupObject>
+    <StartupObject>Lesson3.WriteToFile</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,10 +54,15 @@
     <Compile Include="MultipleCatchDemo.cs" />
     <Compile Include="NullPointerExceptionDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadFromFile.cs" />
     <Compile Include="Student.cs" />
+    <Compile Include="WriteToFile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resources\TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
