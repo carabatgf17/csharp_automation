@@ -1,0 +1,7 @@
+C:\Users\serjecan\source\repos\Agenda_persoane\Agenda_persoane\obj\Debug\Agenda_persoane.csprojAssemblyReference.cache
+C:\Users\serjecan\source\repos\Agenda_persoane\Agenda_persoane\obj\Debug\Agenda_persoane.csproj.CoreCompileInputs.cache
+C:\Users\serjecan\source\repos\Agenda_persoane\Agenda_persoane\bin\Debug\Agenda_persoane.exe.config
+C:\Users\serjecan\source\repos\Agenda_persoane\Agenda_persoane\bin\Debug\Agenda_persoane.exe
+C:\Users\serjecan\source\repos\Agenda_persoane\Agenda_persoane\bin\Debug\Agenda_persoane.pdb
+C:\Users\serjecan\source\repos\Agenda_persoane\Agenda_persoane\obj\Debug\Agenda_persoane.exe
+C:\Users\serjecan\source\repos\Agenda_persoane\Agenda_persoane\obj\Debug\Agenda_persoane.pdb
