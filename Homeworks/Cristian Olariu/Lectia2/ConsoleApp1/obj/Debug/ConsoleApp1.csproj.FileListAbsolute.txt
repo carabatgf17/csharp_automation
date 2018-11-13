@@ -1,0 +1,7 @@
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\Lectia 2\Lectia2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\Lectia 2\Lectia2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\Lectia 2\Lectia2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\Lectia 2\Lectia2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\Lectia 2\Lectia2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\Lectia 2\Lectia2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\Lectia 2\Lectia2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

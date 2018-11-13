@@ -8,7 +8,7 @@ namespace Lesson2
 {
     class Shape
     {
-        public void setWidth(int w)
+        internal protected void setWidth(int w)
         {
             width = w;
         }

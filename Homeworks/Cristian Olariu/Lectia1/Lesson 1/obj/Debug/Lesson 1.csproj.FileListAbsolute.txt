@@ -1,0 +1,14 @@
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\LESSON1\Lesson 1\Lesson 1\bin\Debug\Lesson 1.exe.config
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\LESSON1\Lesson 1\Lesson 1\bin\Debug\Lesson 1.exe
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\LESSON1\Lesson 1\Lesson 1\bin\Debug\Lesson 1.pdb
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\LESSON1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.csprojAssemblyReference.cache
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\LESSON1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.csproj.CoreCompileInputs.cache
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\LESSON1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.exe
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\LESSON1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.pdb
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\GIT\csharp_automation\Homeworks\Cristian Olariu\Lectia1\Lesson 1\bin\Debug\Lesson 1.exe.config
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\GIT\csharp_automation\Homeworks\Cristian Olariu\Lectia1\Lesson 1\bin\Debug\Lesson 1.exe
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\GIT\csharp_automation\Homeworks\Cristian Olariu\Lectia1\Lesson 1\bin\Debug\Lesson 1.pdb
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\GIT\csharp_automation\Homeworks\Cristian Olariu\Lectia1\Lesson 1\obj\Debug\Lesson 1.csprojAssemblyReference.cache
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\GIT\csharp_automation\Homeworks\Cristian Olariu\Lectia1\Lesson 1\obj\Debug\Lesson 1.csproj.CoreCompileInputs.cache
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\GIT\csharp_automation\Homeworks\Cristian Olariu\Lectia1\Lesson 1\obj\Debug\Lesson 1.exe
+D:\Wirtek work\Automation\Curs Automation 2018 - Gabriel Carabat\GIT\csharp_automation\Homeworks\Cristian Olariu\Lectia1\Lesson 1\obj\Debug\Lesson 1.pdb
