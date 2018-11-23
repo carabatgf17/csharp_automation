@@ -12,15 +12,26 @@ namespace SeleProj
     {
 
 
-        public IWebElement GetElementByID(String id, IWebDriver driver)
+        public IWebElement GetElementByID(IWebDriver driver, String id)
         {
             IWebElement element = driver.FindElement(By.Id(id));
             return element;
         }
 
-        public void ClickElementById(String id, IWebDriver driver)
+        public void ClickElementById(IWebDriver driver, String id)
         {
-            GetElementByID(id,driver).Click();
+            GetElementByID(driver, id).Click();
+        }
+
+        public void ClickElementByCss(IWebDriver driver, String css)
+        {
+            GetElementByID(driver, css).Click();
+        }
+
+        public static void GoToSimpleDemoForm(IWebDriver driver)
+        {
+            driver.Navigate().GoToUrl("https://www.seleniumeasy.com/test/basic-first-form-demo.html");
+            Task.Delay(2000).Wait();
         }
     }
 }
