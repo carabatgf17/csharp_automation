@@ -207,7 +207,6 @@ namespace SeleProj
                 Assert.AreEqual("Enter value", bValueField.GetAttribute("placeholder"));
 
                 driver.Quit();
-
             }
         }
     }
